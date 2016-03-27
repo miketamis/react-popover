@@ -21,7 +21,7 @@
     "url": "https://github.com/littlebits/react-popover.git"
   },
   "author": "Jason Kuhrt <jasonkuhrt@me.com> (http://jasonkuhrt.com/)",
-  "name": "react-popover-fork",
+  "name": "react-popover",
   "homepage": "https://github.com/littlebits/react-popover",
   "version": "0.6.4",
   "main": "build/index.js",
